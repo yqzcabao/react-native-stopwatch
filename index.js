@@ -1,5 +1,6 @@
 /**
  * @czhang
+ * It is a copy from github
  */
 
 import {AppRegistry} from 'react-native';
