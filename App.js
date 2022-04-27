@@ -155,7 +155,12 @@ export default class App extends Component {
         />
         {laps.length === 0 && (
           <ButtonsRow>
-            <RoundButton title="Lap" color="#8B8B90" background="#151515" disabled/>
+            <RoundButton
+              title="Lap"
+              color="#8B8B91"
+              background="#151515"
+              disabled
+            />
             <RoundButton
               title="Start"
               color="#50D167"
