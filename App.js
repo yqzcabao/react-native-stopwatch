@@ -174,7 +174,7 @@ export default class App extends Component {
             <RoundButton
               title="Lap"
               color="#FFFFFF"
-              background="#3D3D3D"
+              background="#3D3D4D"
               onPress={this.lap}
             />
             <RoundButton
